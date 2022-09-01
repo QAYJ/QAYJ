@@ -2,6 +2,7 @@
 - 👀 I’m a freshman here.
 - 🌱 I’m currently learning Electric Engineering.
 - 💞️ I want to learn some coding skills here.
+- 💞️ I am interested in Machine Learning and Deep Learning.
 - 📫 How to reach me? Just write me directly.
 
 <!---
